@@ -72,7 +72,7 @@ namespace MarcinHoppe.EightQueens
 
         private void ConsiderFirstColumn()
         {
- 	        j = 1;
+            j = 1;
             i = 0;
         }
 
